@@ -1,6 +1,5 @@
 # damage-calc
-
-![](https://github.com/MerCiel2021/damage-calc-4005-gh-actions/workflows/Damage%20Calculation%20Test/badge.svg)
+[![Damage Culculation Test](https://github.com/MerCiel2021/damage-calc-4005-gh-actions/actions/workflows/main.yml/badge.svg)](https://github.com/MerCiel2021/damage-calc-4005-gh-actions/actions/workflows/main.yml)
 
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
